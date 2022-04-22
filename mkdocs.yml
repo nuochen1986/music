@@ -1,0 +1,68 @@
+site_name: Project Documentation
+site_author: weiyong liu
+site_url: http://127.0.0.1:8000/
+nav:
+  - Home: index.md
+  - plateRaman: index2.md
+  - xenon: index3.md
+theme: 
+  # Static files
+  static_templates:
+    - 404.html
+  favicon: images/favicon.png
+  logo: images/logo.png
+  # name: readthedocs
+  name: material
+  language: en
+  # features:
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+extra:
+  # enable multi version
+  version:
+    provider: mike
+
+  alternate:
+
+    # Switch to English
+    - name: English
+      link: <your-site>/en/
+      lang: en
+
+    # Switch to Chinese (Simplified)
+    - name: 简体中文
+      link: <your-site>/zh/
+      lang: zh
+
+    # Switch to Japanese
+    - name: 日本語
+      link: <your-site>/ja/
+      lang: ja
+markdown_extensions:
+  - toc:
+      permalink: True
+      title: Table of Contents
+  - tables
+  - footnotes
+  - mdx_math:
+      enable_dollar_delimiter: True
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+extra_javascript:
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
