@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nuochen1986/music/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nuochen1986/music/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+## liunuochen's music blog
+### 个人小站
+- 这是我的个人博客小站，里面会存放一些关于音乐的资料，还有自己手打的谱子等，这些资料仅供参考学习使用。
+- 我本人比较喜欢音乐，可惜小时候没有机会学这些。现在业余陪儿子练琴之外，会学习一些音乐知识，这个小站就是为了记录自己了解到的关于音乐的点滴。
+- 由于是自学，有些知识或见解不一定正确，欢迎指正。
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
