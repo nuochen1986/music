@@ -1,1 +1,10 @@
+# theme
 theme: jekyll-theme-cayman
+# timezone
+timezone: Asia/Tokyo
+# navigation
+nav:
+- name: Home
+  link: /
+# - name: About
+#   link: /About.html
