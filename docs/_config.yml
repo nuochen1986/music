@@ -2,6 +2,7 @@
 theme: jekyll-theme-cayman
 # timezone
 timezone: Asia/Tokyo
+markdown: kramdown
 # navigation
 nav:
 - name: Home
